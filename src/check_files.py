@@ -28,8 +28,3 @@ if isOK:
     print("必須ファイルが全てあることを確認しました。\n")
     logging.info("必須ファイルが全てあることを確認しました。\n")
 
-
-logging.error("error")
-logging.warning("warning")
-logging.info("info")
-logging.debug("debug")
